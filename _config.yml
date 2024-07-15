@@ -1,0 +1,13 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+#
+# Basic Site Settings
+locale: "en-CA"  # Set to English in Canada
+title: "Let's Build Something Amazing Together!"
+name: &name "Param Randhawa"
+description: &description "I'm a passionate full-stack developer with over 10 years of experience. I create beautiful and accessible user experiences (WCAG 2.0, AODA) across both front-end and back-end. Let's push boundaries and build something amazing together!"
+# Leave the URL blank by not specifying it
+url: https://github.com/iparamr
+# Other settings...
