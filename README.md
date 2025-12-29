@@ -9,6 +9,7 @@ I've been rocking the web dev world for over 10 years now, both front-end and ba
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -18,7 +19,7 @@ I've been rocking the web dev world for over 10 years now, both front-end and ba
 <br/>
 
 <div>
-  <a href="https://github.com/iparamr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iparamr&layout=compact&theme=default" /></a>
+  <a href="https://github.com/iparamr"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iparamr&layout=compact&theme=default" /></a>
 </div>
   
 <hr style="height:1px;border:none;color:#eaecef;background-color:#eaecef;" />
